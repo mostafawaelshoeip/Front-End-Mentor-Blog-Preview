@@ -1,2 +1,6 @@
-# front-end-mentor-blog-preview
-This is a responsive blog perview using  HTML, CSS / FLEXBOX
+```
+
+This is a responsive blog preview
+Created on 21/9/2024
+
+```
